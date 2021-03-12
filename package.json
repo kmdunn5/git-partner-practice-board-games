@@ -1,0 +1,23 @@
+{
+  "name": "git-partner-practice-board-games",
+  "version": "1.0.0",
+  "description": "git partner practice JACOB GREENBERG Ken Dunn - Creator/Owner",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmdunn5/git-partner-practice-board-games.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmdunn5/git-partner-practice-board-games/issues"
+  },
+  "homepage": "https://github.com/kmdunn5/git-partner-practice-board-games#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
